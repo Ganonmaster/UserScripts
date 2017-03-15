@@ -1,3 +1,6 @@
 [submodule "userscripts"]
 	path = userscripts
 	url = https://github.com/noodlebox/userscripts.git
+[submodule "KawaiiDiscord"]
+	path = KawaiiDiscord
+	url = https://github.com/noodlebox/KawaiiDiscord.git
