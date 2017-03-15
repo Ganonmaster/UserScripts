@@ -1,0 +1,23 @@
+/* Embiggen Emoji */
+
+.message-group .emoji {
+    width: 64px;
+    height: 64px;
+}
+/* Square avatars */
+
+.avatar-large,
+.avatar-profile,
+.avatar-small,
+.avatar-xlarge,
+.avatar-xsmall,
+.avatar-xxlarge {
+    border-radius: 0px;
+}
+/* Embiggen Avatars */
+
+.avatar-large {
+    width: 100px;
+    height: 100px;
+    background-size: 100px 100px;
+}
