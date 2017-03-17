@@ -3,6 +3,8 @@
 .message-group .emoji {
     width: 64px;
     height: 64px;
+    margin-right: 0px !important;
+    margin-left: 0px !important;
 }
 /* Square avatars */
 
